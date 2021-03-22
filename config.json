@@ -1,0 +1,9 @@
+{
+    "token": "",
+
+    "autorole": {
+        "debug": true,
+        "roles": ["role-id-here", "role-id-here"]
+    }
+
+}
